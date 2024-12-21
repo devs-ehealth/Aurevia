@@ -150,9 +150,7 @@ Aurevia is perfect for:
 | Name                 | GitHub Profile                                           |
 |----------------------|----------------------------------------------------------|
 | Thimathi Dissanayake | [Developer /Data Analyst](https://github.com/thimathi)   |
-| Mineth Gunawardena   | [Developer ](https://github.com/minethgunawardena)      |
-| Shehan Gunasekara    | [UI/UX Engineer](https://github.com/Shehan303)              |
-| Bhanuka Rajasinghe   | [QA Analyst](https://github.com/Bhanu2001829)           |
+|           |
 
 ---
 

@@ -65,7 +65,7 @@ Aurevia is perfect for:
 ## 🛠️ Technical Architecture
 
 ### 🎨 Frontend
-- Framework: **Flutter** (Dart) for cross-platform compatibility.
+- Framework: **Kotlin** (Multiplatform) for cross-platform compatibility.
 - Design: Minimalistic and user-friendly UI.
 
 ### 🗄️ Backend
